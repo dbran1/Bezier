@@ -1,3 +1,3 @@
 # Bezier
 
-Bezier curves woooooooooo
+Bezier curves, but they, bounce?
